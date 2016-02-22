@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='The essence of composition'/>
+        <page name='Types and Functions'/>
+        <page name='Categories Great and Small'/>
+        <page name='Kleisli Categories'/>
+        <page name='Products and Coproducts'/>
+        <page name='Simple Algebraic Data Types'/>
+    </pages>
+</playground>
