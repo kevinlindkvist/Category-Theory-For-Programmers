@@ -7,5 +7,6 @@
         <page name='Kleisli Categories'/>
         <page name='Products and Coproducts'/>
         <page name='Simple Algebraic Data Types'/>
+        <page name='Functors'/>
     </pages>
 </playground>
